@@ -1,0 +1,3 @@
+# TrackList (Use AAC or WAV)
+file 'tracks/EtudeOp25no8inDflatMajor-Sixths.aac'
+file 'tracks/SymphonyNo5inBbD485-IIAndanteConMoto2.aac'
