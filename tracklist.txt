@@ -1,3 +1,6 @@
 # TrackList (Use AAC or WAV)
+ffconcat version 1.0
 file 'tracks/EtudeOp25no8inDflatMajor-Sixths.aac'
 file 'tracks/SymphonyNo5inBbD485-IIAndanteConMoto2.aac'
+# Call the .txt again to create an endless recursive playlist
+file 'tracklist.txt'

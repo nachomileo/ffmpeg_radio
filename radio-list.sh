@@ -5,7 +5,7 @@
 
 CBR="128k" # Bitrate
 RTMP_URL="rtmp://..."  # URL
-AUTH="?rtmpauth=USER:PASS" # Use your own configuration for rtmpauth
+AUTH="rtmpauth=USER:PASS" # Use your own configuration for rtmpauth
 STREAM="STREAMNAME" # Stream
 SOURCE="tracklist.txt" # Source 
 
